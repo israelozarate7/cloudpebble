@@ -8,7 +8,7 @@ Getting Started
 ---------------
 
 The easiest way to get a fully-functional copy of CloudPebble is using Docker and Docker Compose. Instructions can
-be found in the [https://github.com/pebble/cloudpebble-composed](cloudpebble-composed) repo.
+be found in the [cloudpebble-composed](https://github.com/pebble/cloudpebble-composed) repo.
 
 
 To locally override the configuration, you can create a file at `cloudpebble/settings_local.py` and set the
