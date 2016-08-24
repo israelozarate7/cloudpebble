@@ -132,7 +132,7 @@ msgstr "Usando tabulaciones"
 
 #: ide/models/user.py:50
 msgid "Autocompletion"
-msgstr "Auto completado"
+msgstr "Autocompletado"
 
 #: ide/models/user.py:51
 msgid "Keybinds"
@@ -218,7 +218,7 @@ msgstr "Tipo de Proyecto"
 
 #: ide/templates/ide/index.html:91
 msgid "Empty project"
-msgstr "Poyecto vacío"
+msgstr "Proyecto vacío"
 
 #: ide/templates/ide/index.html:93
 msgid "Standard Templates"
@@ -295,7 +295,7 @@ msgstr "Recursos"
 
 #: ide/templates/ide/project.html:89
 msgid "Preparing autocomplete…"
-msgstr "Preparando auto completado..."
+msgstr "Preparando autocompletado..."
 
 #: ide/templates/ide/project.html:116
 msgid "Create new file"
@@ -328,7 +328,7 @@ msgstr "Destino"
 
 #: ide/templates/ide/project.html:142
 msgid "App / Watchface"
-msgstr "Aplicación/ Esfera"
+msgstr "Aplicación / Esfera"
 
 #: ide/templates/ide/project.html:143
 msgid "Background worker"
@@ -815,7 +815,7 @@ msgstr "¿Ya tienes una cuenta de Pebble?"
 
 #: root/templates/root/index.html:23
 msgid "This is the same account you use to log in to the Pebble Forums, Developer Portal and phone app. Don't have a Pebble account? Create one!"
-msgstr "Esta es la misma cuenta que usas para acceder a los foros de Pebble, al portal de desarrollador y a la splicsción del teléfono. ¿No tienes una cuenta de Pebble? ¡Crea una!"
+msgstr "Esta es la misma cuenta que usas para acceder a los foros de Pebble, al portal de desarrollador y a la aplicación del teléfono. ¿No tienes una cuenta de Pebble? ¡Crea una!"
 
 #: root/templates/root/index.html:24
 msgid "Log in with your Pebble account"
@@ -938,21 +938,22 @@ msgstr "Descargar"
 #: ide/templates/ide/project/compile.html:9
 msgid "Make sure that the Developer Connection is enabled on your phone, and you are\n"
 "running at least phone app version 2.5 (iOS) or 2.1 (Android)."
-msgstr ""
+msgstr "Asegúrese de que la Conexión para desarrolladores está activada en su dispositivo, y que está usando la versión del Pebble app 2.5 (iOS) o 2.1 [beta] (Android)"
+
 
 #: ide/templates/ide/project/resource.html:72
 msgid "Compatibility"
-msgstr ""
+msgstr "Compatibilidad"
 
 #: ide/templates/ide/project/resource.html:75
 msgid "Latest"
-msgstr ""
+msgstr "Último"
 
 #: ide/templates/ide/project/resource.html:76
 msgid "2.7 and earlier"
-msgstr ""
+msgstr "2.7 y anteriores"
 
 #: ide/templates/ide/project/resource.html:78
 msgid "Determines the font rendering algorithm to use. The latest looks better, but can produce slightly larger characters."
-msgstr ""
+msgstr "Determina el algoritmo de renderizado de fuentes para su uso. La última se ve mejor, pero puede producir caracteres ligeramente más grandes"
 
